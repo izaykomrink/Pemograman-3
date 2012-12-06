@@ -1,0 +1,4 @@
+javac -d target src\main\java\belajar\swing\container\BelajarDialog.java
+
+run
+java -cp target belajar.swing.container.BelajarDialog

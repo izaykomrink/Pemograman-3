@@ -1,0 +1,4 @@
+Cara compile :
+1. Masuk ke folder F:\Tugas-Akhir-Pemrograman\Form
+2. compile dengan perintah mvn exec install
+3. kemudian mvn exec:java -Dexec.mainClass=tugas.akhir.pemrograman.Login
